@@ -1,0 +1,203 @@
+.login-box-login-box {
+  gap: 40px;
+  width: 500px;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 5px 30px 0px rgba(115, 57, 136, 0.28);
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  padding-bottom: 40px;
+  background-color: var(--dl-color-gray-white);
+}
+.login-box-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  background-image: linear-gradient(45deg, rgb(194, 165, 246) 4.00%,rgb(95, 56, 164) 98.00%);
+}
+.login-box-text {
+  color: var(--dl-color-gray-white);
+}
+.login-box-container01 {
+  gap: 40px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 20px;
+  padding-right: 20px;
+  flex-direction: column;
+}
+.login-box-container02 {
+  gap: 10px;
+  height: 30%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.login-box-text1 {
+  color: var(--dl-color-primary-txt);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.login-box-container03 {
+  gap: 5px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.login-box-text2 {
+  color: var(--dl-color-primary-txt);
+  font-size: 14px;
+}
+.login-box-text3 {
+  color: var(--dl-color-primary-lila);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.login-box-container04 {
+  gap: 20px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-box-container05 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.login-box-container06 {
+  fill: var(--dl-color-primary-lila);
+  flex: 0 0 auto;
+  width: 54px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-border);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+}
+.login-box-icon {
+  width: 25px;
+  height: 25px;
+}
+.login-box-container07 {
+  fill: var(--dl-color-primary-lila);
+  flex: 0 0 auto;
+  width: 54px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-border);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+}
+.login-box-icon2 {
+  width: 25px;
+  height: 25px;
+}
+.login-box-container08 {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.login-box-container09 {
+  flex: 1;
+  width: 100%;
+  height: 1px;
+  display: flex;
+  align-items: flex-start;
+  background-color: var(--dl-color-gray-border);
+}
+.login-box-text4 {
+  color: #333c45;
+  font-size: 12px;
+}
+.login-box-container10 {
+  flex: 1;
+  width: 100%;
+  height: 1px;
+  display: flex;
+  align-items: flex-start;
+  background-color: var(--dl-color-gray-border);
+}
+.login-box-container11 {
+  gap: 20px;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.login-box-user-email {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-box-textinput {
+  background-color: #f3f6f8;
+}
+.login-box-password {
+  gap: 10px;
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.login-box-textinput1 {
+  width: 100%;
+  font-size: 14px;
+  padding-top: 0.5rem;
+  border-color: var(--dl-color-gray-border);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  padding-bottom: 0.5rem;
+  background-color: #f3f6f8;
+}
+.login-box-text5 {
+  color: var(--dl-color-primary-lila);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+.login-box-container12 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: var(--dl-color-primary-lila);
+}
+.login-box-text6 {
+  color: var(--dl-color-gray-white);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 2px;
+}
+
